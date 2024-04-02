@@ -27,7 +27,7 @@ function Projects() {
             <ProjectCard
               imgPath={worldwise}
               isBlog={false}
-              title="UsePopcorn"
+              title="worldwise"
               description="A react app to track your travels utilizes React Router, context API, memo, useMemo, useCallback"
               ghLink="https://github.com/Magedsaif/The-Ultimate-React-Course-2024-Jonas-Udemy/tree/master/11-worldwise/final"
               demoLink="https://worldwise-jonas.netlify.app/"
